@@ -22,7 +22,6 @@ char* StrCpy(char* src)
     return n;
 }
 <<<<<<< HEAD
-
 /**
 Remote edit B21031701陈嘉钰
 **/
